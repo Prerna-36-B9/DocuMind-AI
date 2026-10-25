@@ -348,12 +348,6 @@ Being upfront about these is good practice:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🙌 Acknowledgements
 
 - [Streamlit](https://streamlit.io/)
