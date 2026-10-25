@@ -350,7 +350,7 @@ Being upfront about these is good practice:
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. Add a `LICENSE` file to your repository to make it official.
+This project is licensed under the **MIT License**.
 
 ---
 
