@@ -43,11 +43,9 @@ Everything runs **locally on your own machine**: the embeddings, the vector data
 
 ## 🖼️ Demo / Screenshots
 
-> Add your screenshots here, for example:
->
+
 > ```md
-> ![Home screen](screenshots/home.png)
-> ![Chat example](screenshots/chat.png)
+> ![Chat screen](screenshots/home.png)
 > ```
 
 ---
