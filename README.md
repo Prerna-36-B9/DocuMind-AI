@@ -179,8 +179,8 @@ OpenAI's models (GPT-4o, `text-embedding-3-*`, etc.) are excellent, but they req
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <DocuMind-AI>
+git clone https://github.com/Prerna-36-B9/DocuMindAI.git
+cd DocuMind-AI
 ```
 
 ### 2. Create and activate a virtual environment
