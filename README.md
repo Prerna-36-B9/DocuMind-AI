@@ -180,7 +180,7 @@ OpenAI's models (GPT-4o, `text-embedding-3-*`, etc.) are excellent, but they req
 
 ```bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+cd <DocuMind-AI>
 ```
 
 ### 2. Create and activate a virtual environment
