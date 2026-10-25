@@ -201,7 +201,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-The app imports `langchain-huggingface`, `langchain-ollama` and `sentence-transformers`, so make sure these are in your `requirements.txt` (a corrected list is below).
+The app imports `langchain-huggingface`, `langchain-ollama` and `sentence-transformers`, so make sure these are in your `requirements.txt` 
 
 <details>
 <summary><b>Recommended <code>requirements.txt</code> for the current code</b></summary>
